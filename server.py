@@ -15,7 +15,7 @@ ask_symptoms = ["Could you share another symptom?", "Do you observe any other sy
 
 tell_results = ["I think you might have :", "You could be down with :", "You might possibly be affected with :"]
 
-welcome_results = ["Hello. I'm Dr.Whatson! I am your virtual doctor for the day. How are your feeling today?", "Hi! I'm Dr.Whatson! Your friendly Virtual Assistant. How are you feeling today?", "Hi! I'm Dr.Whatson! Your friendly Virtual Assistant. How are you doing today?"]
+welcome_results = ["Hello. I'm Dr. Gupta! I am your virtual doctor for the day. How are your feeling today?", "Hi! I'm Dr.Whatson! Your friendly Virtual Assistant. How are you feeling today?", "Hi! I'm Dr.Whatson! Your friendly Virtual Assistant. How are you doing today?"]
 
 
 @app.route('/')
